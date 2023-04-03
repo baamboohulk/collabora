@@ -1,2 +1,3 @@
 # collabora
-Nextclou - Collabora - App Office - Docker-compose
+Nextcloud - Collabora - Docker-compose
+localhost:9980
